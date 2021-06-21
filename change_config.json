@@ -1,0 +1,25 @@
+{
+  "selenium_settings": {
+    "size": [
+      1920,
+      1080
+    ],
+    "headless":"False"
+  },
+  "job_settings": {
+    "searchurls":[
+      "https://www.change.org/p/hollywood-boycott-aquaman-2-amber-heard/c",
+      "https://www.change.org/p/people-with-common-sense-amber-heard-must-be-fired-too/c",
+      "https://www.change.org/p/united-states-supreme-court-put-amber-heard-behind-bars/c",
+      "https://www.change.org/p/warner-brothers-amber-heard-does-not-deserve-to-play-mera-in-the-next-aquaman-film/c",
+      "https://www.change.org/p/zack-snyder-amber-heard-out-ir-justice-league/c",
+      "https://www.change.org/p/change-org-blacklist-amber-heard-from-hollywood/c",
+      "https://www.change.org/p/warner-brothers-warner-bros-warner-media-and-dc-films-fire-amber-heard-from-her-role-as-mera-in-the-dceu/c",
+      "https://www.change.org/p/amber-heard-a-public-letter-to-amber-heard/c",
+      "https://www.change.org/p/cbs-remove-amber-heard-from-the-stand-2020/c",
+      "https://www.change.org/p/warner-brothers-replace-actress-amber-heard-in-aquaman-2/c",
+      "https://www.change.org/p/everybody-boycott-amber-heard/c",
+      "https://www.change.org/p/united-nations-development-programme-remove-dishonorable-amber-heard-from-9th-annual-social-good-summit-2018/c"
+    ]
+  }
+}

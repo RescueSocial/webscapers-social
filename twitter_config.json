@@ -1,0 +1,41 @@
+{
+  "selenium_settings": {
+    "size": [
+      1920,
+      1080
+    ],
+    "headless":"False"
+  },
+  "job_settings": {
+    "profiles":[
+      "https://twitter.com/AmberHeardIT"
+    ],
+    "hashtags":[
+      "AmberHeardisAGoldDigger",
+      "AmberHeardIsALiar",
+      "AmberHeardForPrison",
+      "JusticeForJohnnyDepp",
+      "AmberHeardIsAFraud",
+      "AmberHeardDidNotDonate",
+      "JohnnyDeppIsInnocent",
+      "WeStandByJohnnyDepp",
+      "AmberHeardIsTheRealAbuser",
+      "AmberHeardIsAnAbuser"
+    ],
+    "searchurls":[
+      "https://twitter.com/search?q=amber%20heard&src=typed_query",
+      "https://twitter.com/search?q=amber%20(from%3Aredlikejungle)&src=typed_query",
+      "https://twitter.com/hashtag/AmberHeardisAGoldDigger?src=hashtag_click",
+      "https://twitter.com/aquamanmovie",
+      "https://twitter.com/colonelkurtz99",
+      "https://twitter.com/ThatBrianFella", 
+      "https://twitter.com/LauraBockov" ,
+      "https://twitter.com/LillyJane916" ,
+      "https://twitter.com/MyGrindelwald" ,
+      "https://twitter.com/TheNamesQ",
+      "https://twitter.com/FemCondition",
+      "https://twitter.com/silence_exile" ,
+      "https://twitter.com/adam_waldman"
+    ]
+  }
+}

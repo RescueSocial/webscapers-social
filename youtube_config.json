@@ -1,0 +1,18 @@
+{
+  "selenium_settings": {
+    "size": [
+      1920,
+      1080
+    ],
+    "headless":"False"
+  },
+  "job_settings": {
+    "channels":[
+      "https://www.youtube.com/channel/UCpqiQ8q14kT1sdlZ0gD0bGg/videos",
+      "https://www.youtube.com/channel/UCg0C-N_MPYYOXyF4T3jMxNQ/videos"
+    ],
+    "searchurls":[
+      "https://www.youtube.com/watch?v=1XM1oiYfDX0"
+    ]
+  }
+}
