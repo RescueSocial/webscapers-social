@@ -1,0 +1,15 @@
+{
+  "selenium_settings": {
+    "size": [
+      1920,
+      1080
+    ],
+    "headless":"False"
+  },
+  "job_settings": {
+    "search_texts":[
+      "Amber Heard",
+      "Amber Heard fired"
+    ]
+  }
+}
